@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 #-*- coding: utf-8 -*-
 
-#
-# O objetiv é gerar um arquivo texto contendo uma lista de números binários gerados aleatorioamente
+# O objetivo é gerar um arquivo texto contendo uma lista de números binários gerados aleatorioamente
 # o arquivo resutlado deve estar no formato GIFT para ser imprtado pelo moodle
 
 from random import randint
