@@ -1,200 +1,200 @@
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d16 + 0d7= {=010111}
+0b11110 + 0o011= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x1c + 0d24= {=110100}
+0b11001 + 0x0e= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x09 + 0d2= {=001011}
+0b11110 + 0o027= {=110101}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b1100 + 0x0e= {=011010}
+0o027 + 0o002= {=011001}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o013 + 0x0b= {=010110}
+0d31 + 0b00000011= {=100010}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x01 + 0d15= {=010000}
+0d9 + 0x0f= {=011000}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b101 + 0b00010001= {=010110}
+0x15 + 0b00010111= {=101100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b110 + 0x03= {=001001}
+0x0e + 0b00010100= {=100010}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b10011 + 0x1f= {=110010}
+0o005 + 0b00001111= {=010100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o032 + 0o005= {=011111}
+0x0e + 0d20= {=100010}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x10 + 0b00001000= {=011000}
+0d7 + 0b00011001= {=100000}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b10010 + 0x14= {=100110}
+0o026 + 0o021= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o031 + 0d19= {=101100}
+0o025 + 0x09= {=011110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d9 + 0b00010101= {=011110}
+0b11110 + 0x10= {=101110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x08 + 0d27= {=100011}
+0d12 + 0x07= {=010011}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x08 + 0x04= {=001100}
+0o015 + 0o037= {=101100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o003 + 0x05= {=001000}
+0x20 + 0x04= {=100100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d9 + 0o026= {=011111}
+0b011 + 0b00000100= {=000111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x04 + 0x0d= {=010001}
+0b1011 + 0o036= {=101001}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x0e + 0d21= {=100011}
+0b100 + 0o034= {=100000}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b11000 + 0d28= {=110100}
+0x16 + 0x08= {=011110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b11100 + 0d12= {=101000}
+0x0d + 0o022= {=011111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d15 + 0b00011010= {=101001}
+0o004 + 0x0d= {=010001}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o031 + 0b00001111= {=101000}
+0d16 + 0o021= {=100001}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x01 + 0b00000101= {=000110}
+0o033 + 0x0a= {=100101}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x1d + 0b00010110= {=110011}
+0d9 + 0d12= {=010101}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o035 + 0o024= {=110001}
+0d23 + 0o020= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o024 + 0d22= {=101010}
+0b111 + 0b00011111= {=100110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d7 + 0d13= {=010100}
+0d1 + 0o000= {=000001}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d27 + 0d12= {=100111}
+0o015 + 0x19= {=100110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b011 + 0x00= {=000011}
+0o026 + 0o030= {=101110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b000 + 0d14= {=001110}
+0d11 + 0o001= {=001100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d10 + 0o031= {=100011}
+0x09 + 0x1d= {=100110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o017 + 0d5= {=010100}
+0d15 + 0d13= {=011100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d20 + 0x12= {=100110}
+0x03 + 0b00011001= {=011100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b110 + 0x1c= {=100010}
+0b100000 + 0b00000000= {=100000}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b11000 + 0d4= {=011100}
+0d16 + 0b00011110= {=101110}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b10110 + 0o005= {=011011}
+0o040 + 0b00000111= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o014 + 0d24= {=100100}
+0x12 + 0b00010101= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x0f + 0d31= {=101110}
+0d1 + 0d10= {=001011}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x0c + 0o037= {=101011}
+0x0f + 0o005= {=010100}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x11 + 0x18= {=101001}
+0b101 + 0o003= {=001000}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b10101 + 0x05= {=011010}
+0d17 + 0b00000001= {=010010}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0o006 + 0d4= {=001010}
+0d32 + 0b00000111= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x13 + 0d28= {=101111}
+0b10100 + 0d9= {=011101}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d6 + 0d22= {=011100}
+0b1001 + 0x1e= {=100111}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0d29 + 0x10= {=101101}
+0o022 + 0b00000001= {=010011}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x0d + 0x04= {=010001}
+0d0 + 0d21= {=010101}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0b010 + 0o011= {=001011}
+0x16 + 0b00000010= {=011000}
 
 Convenção: 0x indica hexadecimal; 0b indica binário; 0o indica octal e 0d indica decimal; resposta em binário com 6 bits.
 Resolver a operação aritmética:
-0x02 + 0b00011010= {=011100}
+0x13 + 0x05= {=011000}
 

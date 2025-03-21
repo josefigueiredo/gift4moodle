@@ -7,7 +7,7 @@
 from random import randint
 #abre um arquivo vazio para escrita
 rndrnd2bin = open('arithmetics/rnd+rnd2bin.gift','w')
-binbin2bin = open('arithmetics/bin+bin2bin.gift','w')
+binbin2bin = open('arithmetics/binbin2bin.gift','w')
 Compl2binbin2bin = open('arithmetics/Compl2_bin+bin2bin.gift','w')
 
 for i in range(50):
@@ -74,8 +74,32 @@ for i in range(50):
     # grava no arquivo no formato GIFT
     binbin2bin.writelines(linhas)
 
-binbin2bin.close()
+# binário MENOS binário
+for i in range(50):
+    # gera numeros aleatorios entre 0 a 31
+    minuendo = randint(0,31)
+    subtraendo = randint(0,30)
+    while(minuendo < subtraendo):
+        minuendo = randint(10,31)
+        subtraendo = randint(0,30)
+    resDec = minuendo - subtraendo
 
+    #converte para binario no formato de 6 bits (preenche com zero a esquerda)
+    bOper1 = format(minuendo % (1 << 6), "06b")
+    bOper2 = format(subtraendo % (1 << 6), "06b")
+    resBin = format(resDec % (1 << 6), "06b")
+    
+    linhas = []
+    #     Qual é o valor de pi (até 3 casas decimais)? {#3.1415:0.0005}.
+    linhas.append('Convenção: resposta em binário com 6 bits.\n')
+    linhas.append('Resolver a operação aritmética:\n')
+    linhas.append(''+str(bOper1)+' - '+str(bOper2)+'=')
+    linhas.append(' {='+str(resBin)+'}\n\n')
+
+    # grava no arquivo no formato GIFT
+    binbin2bin.writelines(linhas)
+
+binMenosbin2bin.close()
 
 for i in range(50):
     # gera numeros aleatorios entre -15 a 15
